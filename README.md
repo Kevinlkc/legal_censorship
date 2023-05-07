@@ -10,3 +10,25 @@ We're interested in understanding this unique phenomenon of legal censorship. Sp
 - Why does local courts / government have the incentive to censor?
 - What's the economic impact of such censorship?
 
+### Roadmap:
+#### Main section 1: Predictors of legal censorship
+- Main assumption: Connections, fiscal revenue and investment
+  - First cut: Local vs. Non-local firms;
+  - State-owned enterprises vs. private companies;
+  - We could also measure firm-to-province connection by previous government investments;
+  - For the subset of listed firms, we may follow CLFPD's strategy to measure annual level board of directors' political connection.
+  - Court cases that involves firms that contributes to a larger share of local fiscal revenue are more likely to get censored.
+- Other explanatory factors: 
+  - "Politically sensitive" keywords
+  - Social unrest
+  - National security and international relations
+
+#### Main section 2: Incentives to censor
+- Firm-level regression: Did court verdict removal help those firms attract more investment?
+  - Heterogeneity on # of previous cases
+  - Heterogeneity on type of court cases
+- County-level regression: Did counties with higher court-verdict removal rates attract more investment / fiscal revenue (or its first derivative)?
+  - Or maybe it's just a zero-sum game, and legal censorship merely re-allocates the investment within the pool.
+- Other miscellaneous incentives: Judge / Court level promotion?
+
+#### (Optional) Main section 3: downside of censorship?
