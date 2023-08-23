@@ -27,6 +27,7 @@ We're interested in understanding this unique phenomenon of legal censorship. Sp
 - Firm-level regression: Did court verdict removal help those firms attract more investment?
   - More contracts with SOEs
 <img width="500" alt="eventstudy_numgovt" src="https://github.com/Kevinlkc/legal_censorship/assets/53916529/77f2165f-ca60-4a15-8635-3919d2e87b61">
+
   - More investments from PEs
 <img width="500" alt="eventstudy_amount_invest" src="https://github.com/Kevinlkc/legal_censorship/assets/53916529/90e7d536-b38f-488a-b69f-3ef24caa45d9">
 
